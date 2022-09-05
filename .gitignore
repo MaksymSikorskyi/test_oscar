@@ -1,2 +1,3 @@
-/.venv
+/.oscarenv
 /db.sqlite3
+/.vscode
