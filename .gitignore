@@ -1,4 +1,6 @@
 /.oscarenv
 /db.sqlite3
 /.vscode
+/.oscarenv
+.env
 #напоминание делать игнор до первого комита
